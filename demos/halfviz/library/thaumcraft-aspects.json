@@ -7,7 +7,109 @@
     "stiffness":512,
     "gravity":true
   },
-  "src":"Tenebrae -> Alienis",
+  "src":"Tenebrae -> Alienis\n\
+Vacuos -> Alienis\n\
+Aer -> Arbor\n\
+Herba -> Arbor\n\
+Aer -> Auram\n\
+Praecantatio -> Auram\n\
+Motus -> Bestia\n\
+Victus -> Bestia\n\
+Ignis -> Cognitio\n\
+Spiritus -> Cognitio\n\
+Bestia -> Corpus\n\
+Mortuus -> Corpus\n\
+Motus -> Exanimis\n\
+Mortuus -> Exanimis\n\
+Humanus -> Fabrico\n\
+Instrumentum -> Fabrico\n\
+Vacuos -> Fames\n\
+Victus -> Fames\n\
+Ignis -> Gelum\n\
+Perditio -> Gelum\n\
+Terra -> Herba\n\
+Victus -> Herba\n\
+Bestia -> Humanus\n\
+Cognitio -> Humanus\n\
+Humanus -> Instrumentum\n\
+Ordo -> Instrumentum\n\
+Motus -> Iter\n\
+Terra -> Iter\n\
+Aqua -> Limus\n\
+Victus -> Limus\n\
+Fames -> Lucrum\n\
+Humanus -> Lucrum\n\
+Aer -> Lux\n\
+Ignis -> Lux\n\
+Instrumentum -> Machina\n\
+Motus -> Machina\n\
+Herba -> Messis\n\
+Humanus -> Messis\n\
+Terra -> Metallum\n\
+Vitreus -> Metallum\n\
+Instrumentum -> Meto\n\
+Messis -> Meto\n\
+Perditio -> Mortuus\n\
+Victus -> Mortuus\n\
+Aer -> Motus\n\
+Ordo -> Motus\n\
+Bestia -> Pannus\n\
+Instrumentum -> Pannus\n\
+Humanus -> Perfodio\n\
+Terra -> Perfodio\n\
+Ordo -> Permutatio\n\
+Perditio -> Permutatio\n\
+Ignis -> Potentia\n\
+Ordo -> Potentia\n\
+Potentia -> Praecantatio\n\
+Vacuos -> Praecantatio\n\
+Ordo -> Sano\n\
+Victus -> Sano\n\
+Aer -> Sensus\n\
+Spiritus -> Sensus\n\
+Mortuus -> Spiritus\n\
+Victus -> Spiritus\n\
+Ignis -> Telum\n\
+Instrumentum -> Telum\n\
+Aer -> Tempestas\n\
+Aqua -> Tempestas\n\
+Lux -> Tenebrae\n\
+Vacuos -> Tenebrae\n\
+Instrumentum -> Tutamen\n\
+Terra -> Tutamen\n\
+Aer -> Vacuos\n\
+Perditio -> Vacuos\n\
+Aqua -> Venenum\n\
+Perditio -> Venenum\n\
+Aqua -> Victus\n\
+Terra -> Victus\n\
+Motus -> Vinculum\n\
+Perditio -> Vinculum\n\
+Perditio -> Vitium\n\
+Praecantatio -> Vitium\n\
+Ordo -> Vitreus\n\
+Terra -> Vitreus\n\
+Aer -> Volatus\n\
+Motus -> Volatus\n\
+Vinculum -> Desidia\n\
+Spiritus -> Desidia\n\
+Fames -> Gula\n\
+Vacuos -> Gula\n\
+Ignis -> Infernus\n\
+Praecantatio -> Infernus\n\
+Sensus -> Invidia\n\
+Fames -> Invidia\n\
+Ignis -> Ira\n\
+Telum -> Ira\n\
+Corpus -> Luxuria\n\
+Fames -> Luxuria\n\
+Volatus -> Superbia\n\
+Vacuos -> Superbia\n\
+\n\
+Permutatio {color:#00C000}\n\
+Motus {color:#0000C0}\n\
+Praecantatio {color:#00C0C0}\n\
+Auram {color:#C000C0}",
   "example":"cyoa",
   "title":"Thaumcraft Aspects"
 }
