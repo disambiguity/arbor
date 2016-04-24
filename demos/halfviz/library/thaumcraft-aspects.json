@@ -1,0 +1,13 @@
+{
+  "_id" : "thaumcraft-aspects",
+  "_rev" : "01",
+  "sys" : {
+    "repulsion":2600,
+    "friction":0.5,
+    "stiffness":512,
+    "gravity":true
+  },
+  "src":"Tenebrae -> Alienis",
+  "example":"cyoa",
+  "title":"Thaumcraft Aspects"
+}
