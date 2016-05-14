@@ -27,7 +27,7 @@ import shutil
 YUI_LIB_URL = "http://yui.zenfs.com/releases/yuicompressor/yuicompressor-2.4.6.zip"
 
 # your system configuration may vary...
-YUI_PATH = "/usr/local/bin/yui"
+YUI_PATH = "/usr/bin/yui-compressor"
 YUI_OPTIONS = "--type=js"
 # YUI_OPTIONS = "--nomunge --disable-optimizations --type=js"
 
